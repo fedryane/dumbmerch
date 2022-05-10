@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(0, 0, 0) !important;
+}
+
+:root {
+  --dark: #181818;
+  --red: #f74d4d;
+  --gray: #d2d2d240;
+  --green: #56c05a;
+}
+
+.bg-var-dark {
+  background-color: var(--dark) !important;
+}
+.bg-var-red {
+  background-color: var(--red) !important;
+}
+.bg-var-gray {
+  background-color: var(--gray) !important;
+}
+.bg-var-green {
+  background-color: var(--green) !important;
+}

@@ -1,0 +1,118 @@
+export const Data = [
+    {
+      id: 1,
+      name: "AIR MAX 2021",
+      price: 2990000,
+      categori: "Snecker",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+      qty: "200",
+      image: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/02/12/2173509551.jpg",
+    },
+    {
+      id: 2,
+      name: "TEAM 31 T-SHIRT",
+      price: 439000,
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+      categori: "Apparel",
+      qty: "200",
+      image: "https://asset.kompas.com/crops/u7xodqyKeahXdYrLl7RQsz-nOno=/0x0:993x662/780x390/data/photo/2019/12/20/5dfc4f0aeba5a.jpg",
+    },
+    {
+      id: 3,
+      name: "AIR MAX 2021",
+      price: 2990000,
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+      categori: "Snecker",
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/DH4245-002-1.png",
+    },
+    {
+      id: 4,
+      name: "TEAM 31 T-SHIRT",
+      price: 439000,
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+      categori: "Apparel",
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/AT0515-063-1.png",
+    },
+    {
+      id: 5,
+      name: "AIR MAX 2021",
+      price: 2990000,
+      categori: "Snecker",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/DH4245-002-1.png",
+    },
+    {
+      id: 6,
+      name: "TEAM 31 T-SHIRT",
+      price: 439000,
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      categori: "Apparel",
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/AT0515-063-1.png",
+    },
+    {
+      id: 7,
+      name: "AIR MAX 2021",
+      price: 2990000,
+      categori: "Snecker",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/DH4245-002-1.png",
+    },
+    {
+      id: 8,
+      name: "TEAM 31 T-SHIRT",
+      price: 439000,
+      categori: "Apparel",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/AT0515-063-1.png",
+    },
+    {
+      id: 9,
+      name: "AIR MAX 2021",
+      price: 2990000,
+      categori: "Snecker",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/DH4245-002-1.png",
+    },
+    {
+      id: 10,
+      name: "TEAM 31 T-SHIRT",
+      price: 439000,
+      categori: "Apparel",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/AT0515-063-1.png",
+    },
+    {
+      id: 11,
+      name: "AIR MAX 2021",
+      price: 2990000,
+      categori: "Snecker",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/DH4245-002-1.png",
+    },
+    {
+      id: 12,
+      name: "TEAM 31 T-SHIRT",
+      price: 439000,
+      categori: "Apparel",
+      desc: " SHIPPING: Lemkus.com exclusively uses RAM, one of the leading Courier Companies in SA offering door to door FREE delivery on every order over R800.",
+  
+      qty: "200",
+      image: "https://cdn.shopify.com/s/files/1/0538/9280/8895/products/AT0515-063-1.png",
+    },
+  ];
